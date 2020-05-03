@@ -8,3 +8,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 * Add documentation files: README.md; LICENSE; CHANGELOG.md; and, .gitignore.
 * Add bubble sort algorithm, implemented in Python.
+* Add insertion sort algorithm, implemented in Python.

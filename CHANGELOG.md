@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 * Add stack data structure, implemented in Python.
 * Add queue data structure, implemented in Python.
+* Add deque data structure, implemented in Python.
 
 ## [0.1.0] - 2020-05-03
 ### Added

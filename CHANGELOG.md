@@ -11,3 +11,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Add insertion sort algorithm, implemented in Python.
 * Add merge sort algorithm, implemented in Python.
 * Add quick sort algorithm, implemented in Python.
+* Add timsort algorithm, implemented in Python.
